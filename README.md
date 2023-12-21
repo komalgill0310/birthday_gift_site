@@ -10,9 +10,9 @@ Live Version [here](https://birthdaygiftsite03.netlify.app/)
 
 # Preview
 
-<img src = "images\businessCard.gif">
+<img src = "images\businessGiftSite.gif">
 
-_A snapshot of my stylish business card in action._
+_Take a sneak peek into the heartfelt celebration with interactive gifs capturing the essence of joy._
 
 ## What I've Learned
 
@@ -25,7 +25,7 @@ Excited to explore the birthday website? Follow these simple steps:
 1. Clone the repository.
 2. Open the index.html file in your browser.
 3. Witness the magic as the birthday website comes to life!
-3. Customize the details in the HTML file to add your personal information.
+3. Customize the details in the HTML file to add your loved one's personal information.
 
 ## Features
 
