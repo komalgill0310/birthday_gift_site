@@ -25,7 +25,7 @@ Excited to explore the birthday website? Follow these simple steps:
 1. Clone the repository.
 2. Open the index.html file in your browser.
 3. Witness the magic as the birthday website comes to life!
-3. Customize the details in the HTML file to add your loved one's personal information.
+4. Customize the details in the HTML file to add your loved one's personal information.
 
 ## Features
 
